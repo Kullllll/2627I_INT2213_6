@@ -17,3 +17,14 @@ log/
 .idea
 .DS_Store
 .vscode/
+
+# Môi trường Python
+.venv/
+.venv_old/
+
+# Bộ nhớ đệm Python
+__pycache__/
+*.pyc
+
+# Bản sao lưu
+backup_rtp/
